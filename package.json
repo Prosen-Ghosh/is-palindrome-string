@@ -1,6 +1,6 @@
 {
   "name": "is-palindrome-string",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Check if input string is palindrome.",
   "main": "is-palindrome.js",
   "dependencies": {

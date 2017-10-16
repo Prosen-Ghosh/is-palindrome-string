@@ -20,18 +20,18 @@ Check if input string is palindrome.
 ## Usage
 ```js
 
-const palindrome = require('is-palindrome-string');
+const isPalindrome = require('is-palindrome-string');
 
-palindrome('12321')
+isPalindrome('12321');
 //=> true
 
-palindrome('fox')
+isPalindrome('fox');
 //=> false
 
-palindrome('madam')
+isPalindrome('madam');
 //=> true
 
-palindrome()
+isPalindrome();
 //=> TypeError: expects a string got undefined
 
 ```
