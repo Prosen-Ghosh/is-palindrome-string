@@ -1,0 +1,31 @@
+{
+  "name": "is-palindrome-string",
+  "version": "1.0.0",
+  "description": "Check if input string is palindrome.",
+  "main": "is-palindrome.js",
+  "dependencies": {
+    "string-rev": "^1.0.0"
+  },
+  "devDependencies": {
+    "node-readme": "^0.1.9"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "readme": "node ./node_modules/.bin/node-readme"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prosen-Ghosh/is-palindrome-string.git"
+  },
+  "keywords": [
+    "palindrome",
+    "string",
+    "reverse"
+  ],
+  "author": "Prosen Ghosh <prosenghosh25@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Prosen-Ghosh/is-palindrome-string/issues"
+  },
+  "homepage": "https://github.com/Prosen-Ghosh/is-palindrome-string#readme"
+}
